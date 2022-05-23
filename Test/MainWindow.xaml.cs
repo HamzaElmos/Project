@@ -55,7 +55,6 @@ namespace Test
                     break;
 
                 case "Verkoper":
-                    
                     Administrator admin = new Administrator();
                     admin.Show();
                     this.Close();
