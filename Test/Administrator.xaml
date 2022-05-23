@@ -29,6 +29,9 @@
                 <Button  Content="Search" Width="60" HorizontalAlignment="left" Margin="0 20 30 0"/>
                 <TextBox Width="255" Margin="0 20 30 0"></TextBox>
             </StackPanel>
+            <StackPanel>
+                <Label Content="HIER MOET DE GRID KOMEN"/>
+            </StackPanel>
 
 
         </StackPanel>
